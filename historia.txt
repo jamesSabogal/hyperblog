@@ -2,4 +2,4 @@ Esta es la historia de jamesito, tiene 51 marzos y nació en Barcelona-Quindío-
 
 empezamos el curso de git adicionando otro cambio al archivo
 
-adicionamos otra parte
+adicionamos otra parte y otro parrafo
